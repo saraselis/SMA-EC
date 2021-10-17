@@ -9,6 +9,7 @@ python = "^3.8"
 pade = "^2.2.4"
 icecream = "^2.1.1"
 python-twitter = "^3.5"
+python-dotenv = "^0.19.1"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
