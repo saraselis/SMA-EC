@@ -16,9 +16,9 @@ o resultado esperado.
 > Status do Projeto: em andamento :grey_exclamation:
 
 ## Pré-requisitos :question:
-1. Python3 [Docker](https://www.python.org/downloads/)
-2. Pip3 [Docker](https://pip.pypa.io/en/stable/)
-3. Poetry [Docker](https://python-poetry.org/):
+1. [Python3](https://www.python.org/downloads/)
+2. [Pip3](https://pip.pypa.io/en/stable/)
+3. [Poetry](https://python-poetry.org/):
 
 Para instalar o poetry e gerenciar as dependencias do projeto.
 
