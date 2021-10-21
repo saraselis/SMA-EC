@@ -46,6 +46,16 @@ Para acessar o front da aplicação.
 
 `http://172.19.167.225:5000/`
 
+##PADE
+
+Documentação do PADE
+
+`https://pade.readthedocs.io/pt_BR/latest/user/protocolos.html`
+
+Repositório GIT do PADE
+
+`https://github.com/grei-ufc/pade` 
+
 ## Melhorias :trophy:
 - [ ] Adicionar um terceiro agente e seus comportamentos para realizar o predict da mensagem recebida
 e verificar qual o sentimento daquele tweet ódio, felicidade, tristeza.
