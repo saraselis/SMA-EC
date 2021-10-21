@@ -6,8 +6,8 @@
 Aplicação é um sistema multi-agentes, que irá criar agentes para pesquisar <i>tweets</i> de <i>hate</i> de jogadoras na <i>API</i> do <i>Twitter</i>.
 
 A biblioteca utilizada para auxilio da implementação é a **PADE**.
-A aplicação cria um agente pesquisador que irá buscar pelos nomes específicos no <i>Twitter</i> e um segundo agente retorna
-o último tweet que contém o nome desejado.
+A aplicação cria um agente pesquisador que irá buscar por um nome específicos no <i>Twitter</i> e um segundo agente retorna
+o último <i>tweet</i> que contém o nome desejado.
 
 
 ![Tags](a1r.PNG)
