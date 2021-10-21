@@ -3,9 +3,10 @@
 </p>
 
 # Projeto :bomb:
-Aplicação cria agentes para pesquisar tweets de hates de jogadoras na API do Twitter.
-A biblioteca utilizada para auxilio da implementação é a PADE.
-A aplicação cria agentes e buscam pelos nomes específicos no Twitter e um segundo agente retorna
+Aplicação cria agentes para pesquisar <i>tweets</i> de <i>hates</i> de jogadoras na <i>API</i> do <i>Twitter</i>.
+
+A biblioteca utilizada para auxilio da implementação é a **PADE**.
+A aplicação cria agentes e buscam pelos nomes específicos no <i>Twitter</i> e um segundo agente retorna
 o resultado esperado.
 
 
